@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Member of technical team ",
+    "organisation": "Electronics Club",
+    "startDate": "jan, 2023",
+    "endDate": "Present",
+    "experiences": ["Creating website", "Creating Registration form"],
+    "imageSrc": "history/Electronics-logo1.png"
+  },
+  {
+    "role": "Member of",
+    "organisation": "Inovation & DIY club",
+    "startDate": "dec, 2023",
+    "endDate": "Present",
+    "experiences": ["", ""],
+    "imageSrc": "history/Inovation.png"
+  }
+ 
+]

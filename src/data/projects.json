@@ -1,0 +1,26 @@
+[
+  {
+    "title": "LMS",
+    "imageSrc": "projects/project.png",
+    "description": "This project is Learning Managemant System",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "",
+    "source": "https://github.com/Rohan5091/LMS-project"
+  },
+  {
+    "title": "Grammarly-clone",
+    "imageSrc": "projects/project.png",
+    "description": "This project is the clone of the grammarly website",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "",
+    "source": "https://github.com/Rohan5091/Grammarly-clone"
+  },
+  {
+    "title": "To-Do app",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project is To-Do application",
+    "skills": ["React","Tailwind-CSS"],
+    "demo": "",
+    "source": "https://github.com/Rohan5091/Todo_app"
+  }
+]
